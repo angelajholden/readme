@@ -1,5 +1,12 @@
 # [Project Name or Emoji] [Short Project Description]
 
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=flat&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![Watch the Build](https://img.shields.io/badge/YouTube-Watch-blue?logo=youtube)](https://www.youtube.com/playlist?list=[playlist_goes_here])
+
 This is a simple, clean [project type, e.g., blog site, landing page, portfolio] built with HTML, CSS, SCSS, and vanilla JavaScript.
 
 It’s based on a [Photoshop/Figma] mockup called **[Mockup Name and Link]** — purchased from [Envato/ThemeForest](https://themeforest.net/).
