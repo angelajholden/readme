@@ -18,6 +18,14 @@ _This project is part of a free, open-source series focused on helping newer dev
 
 ---
 
+## :sunflower: Helpful Links
+
+-   [Markdown Basic Syntax](https://markdownguide.offshoot.io/basic-syntax/)
+-   [Markdown Extended Syntax](https://www.markdownguide.org/extended-syntax/)
+-   [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
+
+---
+
 ## 🔴 YouTube
 
 🎥 **Watch the build in action** on my [YouTube channel](https://www.youtube.com/@angelajholden) — or check out the
