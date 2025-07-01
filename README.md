@@ -12,6 +12,7 @@ This is a simple, clean [project type, e.g., blog site, landing page, portfolio]
 It’s based on a [Photoshop/Figma] mockup called **[Mockup Name and Link]** — purchased from [Envato/ThemeForest](https://themeforest.net/).
 
 The goal of this project is to turn a static design into accessible, modern code — and make it easy for anyone to customize or learn from.
+
 It’s mobile responsive and includes a [brief highlight: e.g., custom CSS masonry layout, animation effects, or accessibility focus].
 
 _This project is part of a free, open-source series focused on helping newer developers practice HTML/CSS with real-world examples._
@@ -35,7 +36,7 @@ _This project is part of a free, open-source series focused on helping newer dev
 
 ## 🔗 See the site live
 
--   [Live demo URL or Heroku link here]
+-   [Live demo on Heroku](https://www.heroku.com/)
 
 ---
 
