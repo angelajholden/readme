@@ -9,7 +9,7 @@
 
 This is a simple, clean [project type, e.g., blog site, landing page, portfolio] built with HTML, CSS, SCSS, and vanilla JavaScript.
 
-It’s based on a [Photoshop/Figma] mockup called **[Mockup Name and Link]** — purchased from [Envato/ThemeForest](https://themeforest.net/).
+It’s based on a Photoshop mockup called **[Mockup Name and Link]** — purchased from [Envato/ThemeForest](https://themeforest.net/).
 
 The goal of this project is to turn a static design into accessible, modern code — and make it easy for anyone to customize or learn from.
 
@@ -70,7 +70,7 @@ This project is released as an open-source, free-to-use static website template 
 
 ### 🎨 Design Attribution
 
-The visual design of this template was adapted from a commercial [Photoshop/Figma] mockup purchased from ThemeForest.
+The visual design of this template was adapted from a commercial Photoshop mockup purchased from ThemeForest.
 That asset was used in accordance with the [ThemeForest Regular License](https://themeforest.net/licenses/standard), which permits distribution of a **finished end product** for free, but **does not allow redistribution of the original PSD or design source files**.
 
 -   The code in this repository is 100% original and written by me.
