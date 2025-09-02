@@ -1,42 +1,27 @@
-# [Project Name or Emoji] [Short Project Description]
+# Project Name
 
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=flat&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 [![Watch the Build](https://img.shields.io/badge/YouTube-Watch-blue?logo=youtube)](https://www.youtube.com/playlist?list=[playlist_goes_here])
 
-This is a simple, clean [project type, e.g., blog site, landing page, portfolio] built with HTML, CSS, SCSS, and vanilla JavaScript.
+This is a simple, clean [project type, e.g., blog site, landing page, portfolio] built with HTML, CSS, SCSS, and vanilla JavaScript. It’s based on a Photoshop mockup called **[Mockup Name and Link]** — purchased from [Envato/ThemeForest](https://themeforest.net/). The goal of this project is to turn a static design into accessible, modern code — and make it easy for anyone to customize or learn from. It’s mobile responsive and includes a [brief highlight: e.g., custom CSS masonry layout, animation effects, or accessibility focus].
 
-It’s based on a Photoshop mockup called **[Mockup Name and Link]** — purchased from [Envato/ThemeForest](https://themeforest.net/).
-
-The goal of this project is to turn a static design into accessible, modern code — and make it easy for anyone to customize or learn from.
-
-It’s mobile responsive and includes a [brief highlight: e.g., custom CSS masonry layout, animation effects, or accessibility focus].
-
-_This project is part of a free, open-source series focused on helping newer developers practice HTML/CSS with real-world examples._
-
----
-
-## :sunflower: Helpful Links
-
--   [Markdown Basic Syntax](https://markdownguide.offshoot.io/basic-syntax/)
--   [Markdown Extended Syntax](https://www.markdownguide.org/extended-syntax/)
--   [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
+_This project is free and open-source, and focused on helping new frontend developers practice HTML, CSS and JavaScript with real-world examples._
 
 ---
 
 ## 🔴 YouTube
 
-🎥 **Watch the build in action** on my [YouTube channel](https://www.youtube.com/@angelajholden) — or check out the
+🎥 **Watch the build in action** on [YouTube](https://www.youtube.com/@angelajholden) — or check out the
 [project playlist](https://www.youtube.com/playlist?list=[YOUR-PLAYLIST-ID]) to follow the full step-by-step process.
 
 ---
 
 ## 🔗 See the site live
 
--   [Live demo on Heroku](https://www.heroku.com/)
+-   [Live demo on Github Pages](https://angelajholden.github.io/)
 
 ---
 
@@ -51,14 +36,6 @@ git clone git@github.com:angelajholden/[your-repo-name].git
 ### ✅ Live Server
 
 If you're using VS Code, I recommend using the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension to run and view the site in your browser.
-
-### ✅ Sass Watch
-
-```bash
-sass --watch scss/styles.scss:styles.css --style compressed
-```
-
-Or use the VS Code extension [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass).
 
 ---
 
