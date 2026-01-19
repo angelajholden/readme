@@ -4,7 +4,6 @@
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-[![Watch the Build](https://img.shields.io/badge/YouTube-Watch-blue?logo=youtube)](https://www.youtube.com/playlist?list=[playlist_goes_here])
 
 This is a simple, clean [project type, e.g., blog site, landing page, portfolio] built with HTML, CSS, SCSS, and vanilla JavaScript. It’s based on a Photoshop mockup called **[Mockup Name and Link]** — purchased from [Envato/ThemeForest](https://themeforest.net/). The goal of this project is to turn a static design into accessible, modern code — and make it easy for anyone to customize or learn from. It’s mobile responsive and includes a [brief highlight: e.g., custom CSS masonry layout, animation effects, or accessibility focus].
 
@@ -21,7 +20,7 @@ _This project is free and open-source, and focused on helping new frontend devel
 
 ## 🔗 See the site live
 
--   [Live demo on Github Pages](https://angelajholden.github.io/)
+- [Live demo on Github Pages](https://angelajholden.github.io/)
 
 ---
 
@@ -50,8 +49,8 @@ This project is released as an open-source, free-to-use static website template 
 The visual design of this template was adapted from a commercial Photoshop mockup purchased from ThemeForest.
 That asset was used in accordance with the [ThemeForest Regular License](https://themeforest.net/licenses/standard), which permits distribution of a **finished end product** for free, but **does not allow redistribution of the original PSD or design source files**.
 
--   The code in this repository is 100% original and written by me.
--   No ThemeForest source files are included in this repo.
--   This project may not be resold, re-uploaded, or redistributed as a template or theme on marketplaces.
+- The code in this repository is 100% original and written by me.
+- No ThemeForest source files are included in this repo.
+- This project may not be resold, re-uploaded, or redistributed as a template or theme on marketplaces.
 
 If you fork this project, please make sure your use complies with the terms of the ThemeForest license.
